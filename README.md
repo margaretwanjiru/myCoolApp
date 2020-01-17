@@ -2,6 +2,8 @@
 
 ## Margaret Irungu
 
+[![codebeat badge](https://codebeat.co/badges/ea7a83e5-34c8-49fb-b875-548c12fa58e1)](https://codebeat.co/projects/github-com-margaretwanjiru-mycoolapp-master)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 ## Development server
